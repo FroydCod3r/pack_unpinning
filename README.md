@@ -1,5 +1,6 @@
 # pack_unpinning
 Coletânea de Scripts para SSL Pinning em apps Android
+Foi adicionado um script para bypass em mecanismos Anti-Root
 
 # poc with frida-client
 frida --codeshare script.js -U -f <package_name> --no-pause
